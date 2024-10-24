@@ -8,7 +8,6 @@ Hello there, This is the app which will show you the updated news that is going 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -36,7 +35,9 @@ To get started with the portfolio locally, follow these steps:
    git clone https://github.com/MeetaHaldar/DailyWave.git
    
 2. Navigate to the project directory:
-``` cd DailyWave
+
+```
+cd DailyWave
 ```
 3. Install dependencies:
 ```
