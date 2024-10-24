@@ -33,10 +33,10 @@ To get started with the portfolio locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MeetaHaldar/Dribble-it.git
+   git clone https://github.com/MeetaHaldar/DailyWave.git
    
 2. Navigate to the project directory:
-``` cd Dribble-it
+``` cd DailyWave
 ```
 3. Install dependencies:
 ```
